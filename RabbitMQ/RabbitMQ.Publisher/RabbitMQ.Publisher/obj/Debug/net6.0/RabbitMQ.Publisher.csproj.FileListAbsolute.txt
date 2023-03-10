@@ -1,0 +1,17 @@
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\net6.0\RabbitMQ.Publisher.exe
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\net6.0\RabbitMQ.Publisher.deps.json
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\net6.0\RabbitMQ.Publisher.runtimeconfig.json
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\net6.0\RabbitMQ.Publisher.dll
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\net6.0\RabbitMQ.Publisher.pdb
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\net6.0\RabbitMQ.Publisher.csproj.AssemblyReference.cache
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\net6.0\RabbitMQ.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\net6.0\RabbitMQ.Publisher.AssemblyInfoInputs.cache
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\net6.0\RabbitMQ.Publisher.AssemblyInfo.cs
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\net6.0\RabbitMQ.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\net6.0\RabbitMQ.Publisher.csproj.CopyComplete
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\net6.0\RabbitMQ.Publisher.dll
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\net6.0\refint\RabbitMQ.Publisher.dll
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\net6.0\RabbitMQ.Publisher.pdb
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\net6.0\RabbitMQ.Publisher.genruntimeconfig.cache
+C:\Users\baran.ucdag\source\repos\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\net6.0\ref\RabbitMQ.Publisher.dll
